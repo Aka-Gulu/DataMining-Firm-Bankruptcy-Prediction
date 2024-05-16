@@ -2,6 +2,7 @@
 
 ## Kaggle & PPT Slides
 **Kaggle Leaderboard link**: [https://www.kaggle.com/competitions/fall-2023-mgmt571-final-project-on-classification/leaderboard?tab=public](https://www.kaggle.com/competitions/fall-2023-mgmt571-final-project-on-classification/leaderboard?tab=public) 
+
 **Slides link**: [https://docs.google.com/presentation/d/1wszgR8M3PqwJW_ZoQk1x9CSUsV3gZ6U3/edit?usp=sharing&ouid=113313002084083777814&rtpof=true&sd=true](https://docs.google.com/presentation/d/1wszgR8M3PqwJW_ZoQk1x9CSUsV3gZ6U3/edit?usp=sharing&ouid=113313002084083777814&rtpof=true&sd=true)
 
 ### General Description
