@@ -16,11 +16,11 @@ The predictive model was developed using the following steps:
    - A sample node was used to split the data multiple times, employing stratified sampling to increase robustness.
 
 2. **Model Building**:
-   - **Gradient Boosting**: This model was used to capture complex patterns in the data through iterative boosting.
-   - **Neural Network**: This model was employed to leverage its ability to model nonlinear relationships.
+   - `**Gradient Boosting**`: This model was used to capture complex patterns in the data through iterative boosting.
+   - `**Neural Network**`: This model was employed to leverage its ability to model nonlinear relationships.
 
 3. **Ensemble Method**:
-   - The final model is an ensemble of Gradient Boosting and Neural Network models. This approach was chosen to leverage the strengths of both models and provide more accurate predictions.
+   - The final model is an `ensemble` of Gradient Boosting and Neural Network models. This approach was chosen to leverage the strengths of both models and provide more accurate predictions.
 
 ### Dataset
 The dataset used in this project contains various financial and economic indicators that are used to predict the likelihood of firm bankruptcy. The data was sourced from a Kaggle competition specifically designed for this project.
