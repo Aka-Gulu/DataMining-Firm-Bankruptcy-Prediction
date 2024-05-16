@@ -1,5 +1,9 @@
 # Firm-Bankruptcy-Prediction
 
+## Kaggle & PPT Slides
+**Kaggle Leaderboard link**: [https://www.kaggle.com/competitions/fall-2023-mgmt571-final-project-on-classification/leaderboard?tab=public](https://www.kaggle.com/competitions/fall-2023-mgmt571-final-project-on-classification/leaderboard?tab=public) 
+**Slides link**: [https://docs.google.com/presentation/d/1wszgR8M3PqwJW_ZoQk1x9CSUsV3gZ6U3/edit?usp=sharing&ouid=113313002084083777814&rtpof=true&sd=true](https://docs.google.com/presentation/d/1wszgR8M3PqwJW_ZoQk1x9CSUsV3gZ6U3/edit?usp=sharing&ouid=113313002084083777814&rtpof=true&sd=true)
+
 ### General Description
 This project involves developing a predictive model using SAS Enterprise Miner (SAS EM) to forecast if a firm will file for bankruptcy. The project aims to predict firm bankruptcy by leveraging various econometric measures and data mining algorithms. The final model is an ensemble of Gradient Boosting and Neural Network models, designed to improve robustness and accuracy through data stratification and multiple sampling.
 
