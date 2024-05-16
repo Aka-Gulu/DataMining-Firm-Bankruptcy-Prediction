@@ -40,4 +40,4 @@ This project demonstrates the effective use of data mining algorithms in predict
 
 ### Diagram
 Here is the diagram of the ensemble model used in this project:
-![Ensemble Model](assets/ensemble_model.png)
+![Ensemble Model](assets/Ensemble.png)
